@@ -163,6 +163,13 @@
             min-width: 50vw;
             margin: 0 20%;
         }
+
+        footer {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color:#888888;
+        }
         
         @media screen and (max-width: 480px) {
             .caixa,
